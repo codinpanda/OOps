@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files
+*.csv
+pdf_text.txt
+read_pdf.py
+
+# Virtual environments
+venv/
+env/
+.env
